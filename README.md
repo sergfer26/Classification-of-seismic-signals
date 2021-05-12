@@ -1,1 +1,1 @@
-# Classification-of-seismic-signals-from-a-volcano
+# Classification-of-seismic-signals
