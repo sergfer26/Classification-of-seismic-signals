@@ -12,6 +12,8 @@ from torch import optim
 from torch.autograd import Variable
 from torch.utils.data import DataLoader, Dataset, Subset
 
+### Training of the autoencoder
+
 
 device = 'cpu'
 if torch.cuda.is_available():
